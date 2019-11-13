@@ -1,4 +1,3 @@
-import Menu from '../components/Menu';
 import Layout from '../components/Layout';
 
 const Homepage = () => (
