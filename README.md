@@ -7,17 +7,20 @@ building a simple portfolio with next and react.js
 
 ## How to set up the project
     - run npm install after you have cloned the project
-    
 
 ### Technologies Used
 - Next.js
 - React.js
 - Javascript
 - CSS & HTML
-- 💓
+- 💓  
 
 ### Resources
 - [Pexels](https://pexels.com/search/studio)
 
 ### Contributers
-- Giordi Fungula
+- Giordi Fungula 
+
+### Making the heading
+
+- I have added a change 
